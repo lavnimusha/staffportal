@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/staffportal/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/staffportal/static/js/main.e8265110.chunk.js",
+    "main.js.map": "/staffportal/static/js/main.e8265110.chunk.js.map",
+    "runtime-main.js": "/staffportal/static/js/runtime-main.e3243860.js",
+    "runtime-main.js.map": "/staffportal/static/js/runtime-main.e3243860.js.map",
+    "static/js/2.481b8c0f.chunk.js": "/staffportal/static/js/2.481b8c0f.chunk.js",
+    "static/js/2.481b8c0f.chunk.js.map": "/staffportal/static/js/2.481b8c0f.chunk.js.map",
+    "index.html": "/staffportal/index.html",
+    "precache-manifest.bb2139e3c7eaef0c9de6c7a832e9b3e1.js": "/staffportal/precache-manifest.bb2139e3c7eaef0c9de6c7a832e9b3e1.js",
+    "service-worker.js": "/staffportal/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/staffportal/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.481b8c0f.chunk.js.LICENSE": "/staffportal/static/js/2.481b8c0f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3243860.js",
+    "static/js/2.481b8c0f.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.e8265110.chunk.js"
+  ]
+}
