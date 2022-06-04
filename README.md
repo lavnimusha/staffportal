@@ -1,13 +1,17 @@
 # Staff Portal Sign-In and Sign-Up page
 
-# Live
+## Live
 https://lavnimusha.github.io/staffportal/
 
-# Description
-Acme Staff portal uses 'Okta' for authentication and allows user to register and Sign-In into portal. 
+## Skills
+HTML,CSS, React
 
+## Description
+Acme Staff portal uses 'Okta' for authentication and allows user to register and Sign-In into portal. Okta is a secure identity cloud that links all our apps, logins and devices into a unified digital fabric. With Okta, we are up and running on day one, with every app and program we use to work, instantly available. Whether we are at our desktop or on the go, Okta seamlessly connects us to everything we need.
 
-This project was bootstrapped with [Create React App](<img width="1300" alt="Screen Shot 2022-06-04 at 2 28 00 PM" src="https://user-images.githubusercontent.com/40901373/172026005-4d3995c3-8a98-4e5c-ba2c-23e8cc4a82b2.png">
+<img width="1300" alt="Screen Shot 2022-06-04 at 2 28 00 PM" src="https://user-images.githubusercontent.com/40901373/172026005-4d3995c3-8a98-4e5c-ba2c-23e8cc4a82b2.png">
+
+This project was bootstrapped with [Create React App](
 https://github.com/facebook/create-react-app).
 
 ## Available Scripts
